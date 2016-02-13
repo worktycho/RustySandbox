@@ -1,0 +1,6 @@
+[package]
+name = "RustySandbox"
+version = "0.1.0"
+authors = ["tycho <work.tycho@gmail.com>"]
+
+[dependencies]
